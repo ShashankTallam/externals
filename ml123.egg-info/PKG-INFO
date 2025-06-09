@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ml123
+Version: 0.2
+Summary: A package with short ML programs
+Author: Your Name
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
